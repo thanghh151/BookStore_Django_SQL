@@ -10,4 +10,4 @@ Cơ sở dữ liệu:
 
 Link demo web:
 
-Link demo database: https://www.youtube.com/watch?v=3TmXQcbLe50
+Link demo database: 
