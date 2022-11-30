@@ -8,6 +8,6 @@ Cơ sở dữ liệu:
 
 ![csdl](https://user-images.githubusercontent.com/100281796/204355016-d93d7f9b-0a4e-4e9c-b9ff-edbf3f55a9d3.png)
 
-Link demo web:
+Link demo web: https://www.youtube.com/watch?v=uuTjk83RsXM
 
 Link demo database: https://www.youtube.com/watch?v=92yfbW5A4go&feature=youtu.be
